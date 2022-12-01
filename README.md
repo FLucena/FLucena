@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Francisco Lucena</h1>
+<h1 align="center">Hi 👋, I am Francisco Lucena</h1>
 <h3 align="center">A passionate Python Developer and Data Analyst from Argentina</h3>
 
 <h3 align="left">Connect with me:</h3>
