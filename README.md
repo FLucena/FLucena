@@ -2,7 +2,10 @@
 <h3 align="center">A passionate Software Developer and Data Analyst from Argentina</h3>
 
 <h3 align="left">Connect with me:</h3>
-<a href="mailto:franciscolucena90@gmail.com" target="_blank" rel="noreferrer"> franciscolucena90@gmail.com </a>
+<p>
+  📧 <a href="mailto:franciscolucena90@gmail.com" target="_blank" rel="noreferrer">franciscolucena90@gmail.com</a><br/>
+  🌐 <a href="https://flucena.vercel.app" target="_blank" rel="noreferrer">flucena.vercel.app</a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -20,7 +23,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a>
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/> </a>
